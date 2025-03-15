@@ -14,6 +14,7 @@ You need to add pictures of pieces.
 
 `pa.jpg` = white pawn
 
+***
 
 `r.jpg` = black rook
 
